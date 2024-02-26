@@ -1,0 +1,9 @@
+name: SaturnReport
+version: 1.0
+main: saturncode.report.SaturnReport
+authors: [ Apolo ]
+commands:
+  report:
+    aliases: [reportar]
+  reports:
+    aliases: [reportes]

@@ -1,0 +1,13 @@
+Inventario:
+  Nome: '&7Reportes'
+  Tamanho: 45
+  Slots: [ 10, 11, 12, 13, 14, 15, 16, 19, 20 ,21 ,22, 23, 24, 25, 28, 29, 30, 31, 32, 33, 34, 37, 38, 39, 40, 41, 42, 43 ]
+  Itens:
+    Titulo: '&7Vitima: &e{vitima}'
+    Lore:
+      - ''
+      - '&7Reportado: &f{reportado}'
+      - '&7Motivo: &f{motivo}'
+      - ''
+      - '&aClique com o &eBotao Esquerdo &apara ir até o reportado.'
+      - '&aClique com o &eBotao Direito &apara excluir o reporte.'

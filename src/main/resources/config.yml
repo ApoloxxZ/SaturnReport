@@ -1,0 +1,35 @@
+#################################################
+#                   SaturnReport                #
+#                  Plugin by: Apolo             #
+#            Plugin exclusivo da SaturnCode     #
+#               © Copyright SaturnCode          #
+#################################################
+
+#Prefixo das mensagens
+Prefixo:
+  Ativar: true
+  Prefixo: '&e&lREPORT &8->'
+
+#Configurações de conexões
+MySQL:
+  Ativar: false #Caso esteja "true" será usado a conexão "MySQL"
+  Host: 'localhost:3306'
+  Database: 'database'
+  User: 'root'
+  Password: ''
+
+#Mensagens gerais
+Mensagens:
+  Gerais:
+    JogadorNaoEncontrado: '&cEsse jogador não existe ou está off-line.'
+    ReportarASiMesmo: '&cVocê não pode reportar a sí mesmo!'
+    JogadorImune: '&cVocê não pode reportar esse jogador.'
+    JogadorReportado: '&aVocê reportou o jogador &e{reportado} &apor &e{motivo}&a.'
+  Staffs:
+    ReporteRecebido:
+      - ''
+      - '&a&lUM NOVO REPORTE FOI ENVIADO!'
+      - ''
+      - '&AUtilize &e/reportes &apara ver!'
+    Teleportado: '&aVocê se teleportou até o jogador &e{reportado}&a.'
+    ReporteExcluido: '&aVocê deletou o reporte de &e{reportado}&a.'
