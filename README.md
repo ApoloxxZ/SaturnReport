@@ -9,4 +9,4 @@
   - saturnreport.imune - Impede do jogador ser reportado.
 
 # SaturnCode
-  [Discord](a)
+  [SaturnCode - Discord](https://discord.gg/uwspFaWEaK)
